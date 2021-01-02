@@ -1,4 +1,4 @@
-[![<ORG_NAME>](https://circleci.com/github/Fontaineconsult/-UCDOEND_Project4.svg?style=svg)](<LINK>)
+[![Project4](https://circleci.com/gh/Fontaineconsult/-UCDOEND_Project4.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
