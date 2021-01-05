@@ -5,11 +5,13 @@
 
 # Step 1:
 # Create dockerpath
+# Before pushing to dockerhub, update the repo name to your account name
 export dockerpath=fontaineconsult/project4
 
 # Step 2:  
 # Authenticate & tag
-docker tag 7e7a91f37a96 fontaineconsult/project4:firsttry
+
+docker tag 7e7a91f37a96 dockerpath:firsttry
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
