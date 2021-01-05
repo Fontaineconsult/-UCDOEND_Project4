@@ -8,19 +8,19 @@ The goal of the projest is to teach a foundation in containerizing pre-built app
 
 
 ## Relevant File:
-# app.py: Main application file, makes a prediction.
-# Dockerfile: Contains config to create a docker container
-# Makefile: Contains shell commands to init project folder
-# run_docker.sh: Run to containerize App.py
-# upload_docker: Run to upload image to dockerhub
-# run_kubernetes.sh: Run to deploy docker image to kubernetes cluster
-# make_prediction.sh: sends data to app.py
+* app.py: Main application file, makes a prediction.
+* Dockerfile: Contains config to create a docker container
+* Makefile: Contains shell commands to init project folder
+* run_docker.sh: Run to containerize App.py
+* upload_docker: Run to upload image to dockerhub
+* run_kubernetes.sh: Run to deploy docker image to kubernetes cluster
+* make_prediction.sh: sends data to app.py
 
 
 
 ## Prerequisites:
-  # Docker: https://www.docker.com/products/docker-desktop
-  # Kubernetes: Make sure to enable Kubernetes in Docker Desktop.
+  * Docker: https://www.docker.com/products/docker-desktop
+  * Kubernetes: Make sure to enable Kubernetes in Docker Desktop.
 
 To run the project:
 
