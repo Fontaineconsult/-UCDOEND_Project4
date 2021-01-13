@@ -7,7 +7,7 @@ This is the Udacity Dev Ops Nanodegree Project 4: Operationalizing a Microservic
 The goal of the projest is to teach a foundation in containerizing pre-built applications using Docker and Kubernetes. 
 
 
-## Relevant File:
+## Relevant Files:
 * app.py: Main application file, makes a prediction.
 * Dockerfile: Contains config to create a docker container
 * Makefile: Contains shell commands to init project folder
@@ -40,4 +40,4 @@ To run the project:
 
 ### Kubernetes Steps
 
-1. Run shell script:  `./run_docker.sh`
+1. Run shell script:  `./run_kubernetes.sh`

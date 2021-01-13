@@ -11,9 +11,9 @@ export dockerpath=fontaineconsult/project4
 # Step 2:  
 # Authenticate & tag
 
-docker tag 7e7a91f37a96 dockerpath:firsttry
+docker tag 1ecc2f745113 $dockerpath:secondtry
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
-docker push $dockerpath:firsttry
+docker push $dockerpath:secondtry
 
